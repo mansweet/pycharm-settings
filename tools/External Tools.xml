@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="pyvmmon ui" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/PyVmMonitor.app/Contents/MacOS/pyvmmonitor-ui" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/Applications/PyVmMonitor.app/Contents/MacOS" />
+    </exec>
+  </tool>
+  <tool name="uba_unified_preflight" description="Remove uba logs before running" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/dev/milkyway/ads/uba/tools/preflight_delete_logs.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/milkyway/ads/uba" />
+    </exec>
+  </tool>
+</toolSet>

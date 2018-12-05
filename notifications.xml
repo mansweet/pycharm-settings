@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IGNORE_GROUP" displayType="NONE" shouldLog="false" />
+    <notification groupId="IGNORE_GROUP_UPDATE" displayType="NONE" shouldLog="false" />
+    <notification groupId="Python Compatibility Inspection Advertiser" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
