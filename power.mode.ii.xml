@@ -1,0 +1,10 @@
+<application>
+  <component name="PowerModeII">
+    <option name="enabled" value="false" />
+    <option name="heatup" value="1" />
+    <option name="heatupThreshold" value="10" />
+    <option name="heatupTime" value="17280" />
+    <option name="keyStrokesPerMinute" value="287" />
+    <option name="shakeEnabled" value="false" />
+  </component>
+</application>
