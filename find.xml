@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '~/dev/milkyway/ads/uba/detector/detectors'" />
-    <option name="defaultScopeName" value="Directory '~/dev/milkyway/ads/uba/detector/detectors'" />
+    <option name="customScope" value="Directory '~/dev/milkyway/ads/uba'" />
+    <option name="defaultScopeName" value="Directory '~/dev/milkyway/ads/uba'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '~/dev/milkyway/ads/uba/detector/detectors'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/dev/milkyway/ads/uba'" />
   </component>
 </application>
