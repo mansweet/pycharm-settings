@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/milkyway/packaging/cicd/jenkins_jobs/milkyway/Jenkinsfile'" />
-    <option name="defaultScopeName" value="File '~/dev/milkyway/packaging/cicd/jenkins_jobs/milkyway/Jenkinsfile'" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/milkyway/packaging/cicd/jenkins_jobs/milkyway/Jenkinsfile'" />
+    <option name="customScope" value="File '~/dev/milkyway/ads/uba/controller/uba_controller.py'" />
+    <option name="defaultScopeName" value="File '~/dev/milkyway/ads/uba/controller/uba_controller.py'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/milkyway/ads/uba/controller/uba_controller.py'" />
     <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
